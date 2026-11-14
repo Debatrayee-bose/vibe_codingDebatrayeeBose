@@ -1,0 +1,9 @@
+
+# Environment variables and secret keys
+backend/.env
+
+# Node dependencies
+backend/node_modules/
+
+# SQLite database
+backend/github_portfolio.db
